@@ -8,9 +8,8 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72)
 
-- 💬 Ask me about **C/C++, C#, Javascript, Python, Nginx, Puppet, Shell, SQL, Linux**
 
-- 📫 How to reach me **madskillz.oneofone@gmail.com**
+- 📫 How to reach me [Email](madskillz.oneofone@gmail.com)
 
 
 <!-- BLOG-POST-LIST:START -->
