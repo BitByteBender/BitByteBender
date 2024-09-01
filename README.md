@@ -4,8 +4,6 @@
 <h3 align="center">A passionate software engineer from Morocco</h3>
 <!--<img align="righ" alt="Programming" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitbytebender&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebender" /> </p>
-
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72)
 
@@ -32,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitbytebender&" alt="bitbytebender" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=bitbytebender&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebender" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bitbytebender&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebender" /> </p>
