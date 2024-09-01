@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQGRK-v8yySAvw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708115447268?e=2147483647&v=beta&t=RPU7O95AaIxyY1em2F7bt6vJgeGQEIOViDZZT1O7-r8)](https://BitByteBender.com)
+[![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://BitByteBender.com)
 
 <h1 align="center">Hi 👋, I'm Soufiane Sadgali</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
