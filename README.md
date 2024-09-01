@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72](https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72)
 
-- 💬 Ask me about **C/C++, C#, Python, Javascript, Python, Nginx, Puppet, Bash, SQL, Linux**
+- 💬 Ask me about **C/C++, C#, Python, Javascript, Python, Nginx, Puppet, Shell, SQL, Linux**
 
 - 📫 How to reach me **madskillz.oneofone@gmail.com**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitbytebender&show_icons=true&locale=en&layout=compact" alt="bitbytebender" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitbytebender&show_icons=true&locale=en" alt="bitbytebender" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitbytebender&" alt="bitbytebender" /></p>
