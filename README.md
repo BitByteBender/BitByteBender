@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bitbytebender" target="blank"><img src="https://img.shields.io/twitter/follow/bitbytebender?logo=twitter&style=for-the-badge" alt="bitbytebender" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72)
 
 - 💬 Ask me about **C/C++, C#, Javascript, Python, Nginx, Puppet, Shell, SQL, Linux**
 
