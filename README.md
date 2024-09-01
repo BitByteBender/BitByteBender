@@ -1,3 +1,5 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQGRK-v8yySAvw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708115447268?e=2147483647&v=beta&t=RPU7O95AaIxyY1em2F7bt6vJgeGQEIOViDZZT1O7-r8)](https://BitByteBender.com)
+
 <h1 align="center">Hi 👋, I'm Soufiane Sadgali</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 <img align="righ" alt="Programming" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
