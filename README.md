@@ -31,3 +31,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitbytebender&" alt="bitbytebender" /></p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=bitbytebender&label=Profile%20views&color=0e75b6&style=flat" alt="bitbytebender" /> </p>
