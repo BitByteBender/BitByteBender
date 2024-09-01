@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@madskillz.oneofone/what-happens-when-you-type-www-google-com-in-your-browser-and-press-enter-ab2a47428b72)
 
 
-- 📫 How to reach me [Email](madskillz.oneofone@gmail.com)
+- 📫 How to reach me [Email](<a href="mailto:madskillz.oneofone@gmail.com" >Contact Me</a>)
 
 
 <!-- BLOG-POST-LIST:START -->
